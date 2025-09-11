@@ -143,3 +143,16 @@ Methods are like **functions** (use `()`).
     `dtypes`).\
 -   **Methods** help manipulate/analyze data (`info()`, `describe()`,
     `sort_values()`).
+
+
+
+
+### Task: DataFrame Methods
+
+- On the students DataFrame:
+
+    - Find the average marks.
+    - Sort the DataFrame by Age.
+    - Drop the Marks column.
+    - Drop the first row.
+    - Check if any column has missing values.
