@@ -6,7 +6,7 @@ import pandas as pd
 #     'City': ['Delhi', 'Mumbai', 'Bangalore']  
 # }  
 
-# df = pd.DataFrame(data)  
+df = pd.DataFrame(data)  
 # print(df)
 
 
@@ -23,7 +23,7 @@ data = [
     ['Niya', 28, 'Surat']  
 ]  
 
-# df = pd.DataFrame(data, columns=['Name', 'Age', 'City'], index=["Row1", "Row2", "Row3", "Row4", "Row5", "Row1", "Row2", "Row3", "Row4", "Row5"])  
+# df = pd.DataFrame(data, columns=['Name', 'Age', 'City'], index=["Row1", "Row2", "Row3", "Row4", "Row5", "Row1", "Row2", "Row3", "Row4", "Row5"] )  
 # print(df)
 # print(df.shape)
 # print(df.size)
