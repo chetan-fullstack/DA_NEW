@@ -13,7 +13,7 @@
 ## 1. What is NumPy?  
 
 **NumPy = Numerical Python**  
-
+     
 - A Python library used for **numerical & scientific computing**.  
 - Provides **multi-dimensional array objects** and tools to work with them.  
 
