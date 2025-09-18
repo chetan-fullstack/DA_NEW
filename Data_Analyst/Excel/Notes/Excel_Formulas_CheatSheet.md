@@ -16,6 +16,8 @@
 | | `=RAND()` | Returns random number (0-1) |
 | | `=RANDBETWEEN(1,100)` | Returns random number between given range |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Statistical** | `=MAX(A1:A10)` | Returns maximum value |
 | | `=MIN(A1:A10)` | Returns minimum value |
 | | `=MEDIAN(A1:A10)` | Returns median value |
@@ -23,6 +25,8 @@
 | | `=STDEV(A1:A10)` | Returns standard deviation |
 | | `=VAR(A1:A10)` | Returns variance |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Text** | `=LEN(A1)` | Returns number of characters |
 | | `=TRIM(A1)` | Removes extra spaces |
 | | `=UPPER(A1)` | Converts text to uppercase |
@@ -37,12 +41,16 @@
 | | `=REPLACE(A1,1,3,"New")` | Replaces part of text |
 | | `=SUBSTITUTE(A1,"old","new")` | Substitutes occurrences of text |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Logical** | `=IF(A1>10,"Yes","No")` | Returns conditional result |
 | | `=IFERROR(A1/B1,"Error")` | Returns custom error message |
 | | `=AND(A1>5,B1<10)` | Returns TRUE if both conditions are met |
 | | `=OR(A1>5,B1<10)` | Returns TRUE if any condition is met |
 | | `=NOT(A1>10)` | Reverses logical value |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Lookup & Reference** | `=VLOOKUP(101,A1:D100,2,FALSE)` | Vertical lookup |
 | | `=HLOOKUP(101,A1:D100,2,FALSE)` | Horizontal lookup |
 | | `=XLOOKUP(101,A1:A100,B1:B100,"Not Found")` | Modern replacement for VLOOKUP |
@@ -51,6 +59,8 @@
 | | `=OFFSET(A1,2,3)` | Returns reference with offset |
 | | `=INDIRECT("A1")` | Returns reference from text |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Date & Time** | `=TODAY()` | Returns current date |
 | | `=NOW()` | Returns current date & time |
 | | `=DAY(A1)` | Returns day from date |
@@ -65,11 +75,15 @@
 | | `=MINUTE(A1)` | Returns minutes from time |
 | | `=SECOND(A1)` | Returns seconds from time |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Financial** | `=PMT(5%/12,60,30000)` | Loan payment |
 | | `=FV(5%/12,60,-500)` | Future value of investment |
 | | `=NPV(10%,A1:A10)` | Net present value |
 | | `=IRR(A1:A10)` | Internal rate of return |
 
+| Category | Formula | Description |
+|----------|---------|-------------|
 | **Information** | `=ISNUMBER(A1)` | Checks if value is number |
 | | `=ISTEXT(A1)` | Checks if value is text |
 | | `=ISBLANK(A1)` | Checks if cell is empty |

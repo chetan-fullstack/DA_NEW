@@ -18,6 +18,8 @@
 | | `Ctrl + G` or `F5` | Go To |
 | | `Alt + Enter` | New line in same cell |
 
+| Category | Shortcut | Action |
+|----------|----------|--------|
 | **Navigation** | `Arrow Keys` | Move one cell in direction |
 | | `Ctrl + Arrow Keys` | Jump to edge of data region |
 | | `Home` | Move to beginning of row |
@@ -28,6 +30,8 @@
 | | `Alt + Page Up` | Move one screen left |
 | | `Alt + Page Down` | Move one screen right |
 
+| Category | Shortcut | Action |
+|----------|----------|--------|
 | **Formatting** | `Ctrl + 1` | Format cells dialog |
 | | `Ctrl + B` | Bold text |
 | | `Ctrl + I` | Italic text |
@@ -39,6 +43,8 @@
 | | `Ctrl + Shift + #` | Apply date format |
 | | `Ctrl + Shift + @` | Apply time format |
 
+| Category | Shortcut | Action |
+|----------|----------|--------|
 | **Rows & Columns** | `Ctrl + Space` | Select entire column |
 | | `Shift + Space` | Select entire row |
 | | `Ctrl + Shift + "+"` | Insert row/column |
@@ -46,6 +52,8 @@
 | | `Alt + H + O + I` | AutoFit column width |
 | | `Alt + H + O + A` | AutoFit row height |
 
+| Category | Shortcut | Action |
+|----------|----------|--------|
 | **Data** | `Alt + =` | AutoSum |
 | | `Ctrl + Shift + L` | Apply/remove filter |
 | | `F2` | Edit active cell |
@@ -56,6 +64,8 @@
 | | `Ctrl + Shift + :` | Insert current time |
 | | `Ctrl + ` (backtick) | Show formulas |
 
+| Category | Shortcut | Action |
+|----------|----------|--------|
 | **Workbook/Worksheet** | `Ctrl + Tab` | Switch between workbooks |
 | | `Ctrl + Page Up` | Move to previous worksheet |
 | | `Ctrl + Page Down` | Move to next worksheet |
@@ -63,6 +73,8 @@
 | | `Alt + E + L` | Delete worksheet |
 | | `Alt + O + H + R` | Rename worksheet |
 
+| Category | Shortcut | Action |
+|----------|----------|--------|
 | **Special** | `F4` | Repeat last action |
 | | `Ctrl + F4` | Close workbook |
 | | `Alt + F4` | Close Excel |
