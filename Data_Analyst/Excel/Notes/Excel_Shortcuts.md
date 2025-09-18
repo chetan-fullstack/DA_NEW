@@ -70,4 +70,3 @@
 | | `Ctrl + Shift + '` | Copy formula from above |
 | | `Ctrl + T` | Create table |
 | | `Ctrl + Shift + F3` | Create names from selection |
-"""
