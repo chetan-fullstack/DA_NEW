@@ -2,12 +2,12 @@ Lecture 2 – DataFrame Operations & Data Cleaning in Pandas
 
 ## Learning Objectives
 By the end of this lecture, you will be able to:
- Select rows and columns in different ways.
- Filter and sort data.
- Add or remove columns.
- Handle missing values (NaN).
- Remove duplicates.
- Convert column data types.
+- Select rows and columns in different ways.
+- Filter and sort data.
+- Add or remove columns.
+- Handle missing values (NaN).
+- Remove duplicates.
+- Convert column data types.
 
 1. Accessing Columns
 # Single column
